@@ -24,6 +24,5 @@ stages {
 }
 browserstack('f3a6b101-46b6-48b9-b0bc-b81e22c546de') {
     // some block
-		const uName = System.getenv("BROWSERSTACK_USERNAME")
-		console.log('uName: ', uName);
+
 }
